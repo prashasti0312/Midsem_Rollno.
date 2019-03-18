@@ -1,0 +1,15 @@
+#include <iostream.h>
+using namespace std;
+int main()
+{
+clrscr()
+int a,b; // taking variables
+
+
+cout<<"Enter the digit to be incremented"<<endl;  //asking the user to provide a number to be incremented
+cin>>a;                                           //taking the number from the user
+b = a+1;                                          //incrementing the number
+cout<<"The number after incrementation is:"<<a<<endl;   //printing the number after incrementation}
+getch()
+}
+
